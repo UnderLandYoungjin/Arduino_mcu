@@ -1,3 +1,4 @@
+[nanum-pen.zip](https://github.com/user-attachments/files/30726356/nanum-pen.zip)
 레이저 마킹기 한국어 테스트 입니다.
 한국어로 마킹이 잘 되는지 확인하고, 
 인쇄 범위가 어디까지 인지 함께 확인 합니다.
