@@ -1,3 +1,6 @@
+레이저 마킹기 한국어 테스트 입니다.
+한국어로 마킹이 잘 되는지 확인하고, 
+인쇄 범위가 어디까지 인지 함께 확인 합니다.
 # Arduino
 Arduino
 <img width="1167" height="689" alt="image" src="https://github.com/user-attachments/assets/a81c68fd-d612-4cbd-9524-e4992253c61c" />
